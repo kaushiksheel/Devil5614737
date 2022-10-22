@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devil5614737&show_icons=true&theme=dark)
+![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devil5614737&show_icons=true&theme=dracula)
 
 
 <!--
