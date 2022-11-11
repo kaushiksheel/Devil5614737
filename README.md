@@ -16,8 +16,6 @@ I am a Frontend Developer and loves to  contributing to open source.
 
 ## Skills:
 
-#### Languages:
-
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=orange&logoColor=white)&nbsp;
 ![Css](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)&nbsp;
