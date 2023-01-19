@@ -6,7 +6,7 @@ I am a Frontend Developer and loves to  contributing to open source.
 
 **I am open to**:
 
-- any collobration work,
+- Any collobration work,
 - Web Dev Projects,
 - Frontend Dev Jobs
 
