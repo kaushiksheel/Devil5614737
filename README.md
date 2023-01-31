@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kaushik Sheel](https://Devil5614737.github.io) 👋    
 
 
-![](https://komarev.com/ghpvc/?username=Devil5614737&color=blue)
+![](https://komarev.com/ghpvc/?username=Devil5614737&color=blue&style=float-right)
 
 
 I am a Frontend Developer and loves to  contributing to open source.
