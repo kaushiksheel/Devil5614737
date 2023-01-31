@@ -1,4 +1,7 @@
-### Hi there, I'm [Kaushik Sheel](https://Devil5614737.github.io) 👋    [](https://komarev.com/ghpvc/?username=Devil5614737)                                                                                            
+### Hi there, I'm [Kaushik Sheel](https://Devil5614737.github.io) 👋    
+
+
+[](https://komarev.com/ghpvc/?username=Devil5614737)    
 
 I am a Frontend Developer and loves to  contributing to open source.
 
